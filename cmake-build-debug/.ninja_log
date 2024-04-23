@@ -1,3 +1,25 @@
 # ninja log v5
-0	713	7354028169664485	CMakeFiles/FileSystem.dir/main.cpp.obj	b3bfd0f2291fccd0
-715	855	7354028171084476	FileSystem.exe	552218a0baf01d9a
+2	42	7354760611274775	CMakeFiles/FileSystem.dir/TEST.cpp.obj	9a7af6066fba425a
+2	709	7355524610684304	CMakeFiles/FileSystem.dir/main.cpp.obj	b3bfd0f2291fccd0
+710	812	7355524611694301	FileSystem.exe	ae2f26895bcded5f
+1	80	7355464838846923	CMakeFiles/FileSystem.dir/main.c.obj	54c42bfe537ac7f6
+2	267	7355526068493808	build.ninja	291c35c661291764
+2	45	7355521381217513	CMakeFiles/FileSystem.dir/test.c.obj	4b914113b7a2cc5e
+2	611	7355526488902355	CMakeFiles/FileSystem.dir/main.cpp.obj	b3bfd0f2291fccd0
+612	718	7355526489942323	FileSystem.exe	ae2f26895bcded5f
+2	638	7355529718664212	CMakeFiles/FileSystem.dir/main.cpp.obj	b3bfd0f2291fccd0
+639	747	7355529719734205	FileSystem.exe	ae2f26895bcded5f
+2	604	7355543467760386	CMakeFiles/FileSystem.dir/main.cpp.obj	b3bfd0f2291fccd0
+605	743	7355543469110388	FileSystem.exe	ae2f26895bcded5f
+3	780	7355545679618030	CMakeFiles/FileSystem.dir/main.cpp.obj	b3bfd0f2291fccd0
+781	916	7355545680948035	FileSystem.exe	ae2f26895bcded5f
+3	729	7355547081098164	CMakeFiles/FileSystem.dir/main.cpp.obj	b3bfd0f2291fccd0
+730	860	7355547082398165	FileSystem.exe	ae2f26895bcded5f
+2	685	7355548993020363	CMakeFiles/FileSystem.dir/main.cpp.obj	b3bfd0f2291fccd0
+686	787	7355548994030357	FileSystem.exe	ae2f26895bcded5f
+3	774	7355550055577507	CMakeFiles/FileSystem.dir/main.cpp.obj	b3bfd0f2291fccd0
+775	880	7355550056617505	FileSystem.exe	ae2f26895bcded5f
+2	710	7355550986668226	CMakeFiles/FileSystem.dir/main.cpp.obj	b3bfd0f2291fccd0
+711	812	7355550987658221	FileSystem.exe	ae2f26895bcded5f
+2	596	7355554403685473	CMakeFiles/FileSystem.dir/main.cpp.obj	b3bfd0f2291fccd0
+596	711	7355554404825479	FileSystem.exe	ae2f26895bcded5f

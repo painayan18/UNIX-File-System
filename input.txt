@@ -1,0 +1,4 @@
+CREATE U file1
+OPEN O file1
+WRITE 12 "Hello, World!"
+CLOSE
